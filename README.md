@@ -1,1 +1,1 @@
-# amazon video
+# amazon video = sample application for immersion day
